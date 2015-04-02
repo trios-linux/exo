@@ -8,7 +8,7 @@
 
 # Set the package version and name:
 NAME=exo
-VER=0.10.3
+VER=0.10.4
 PKG=$NAME-$VER.tar.bz2
 
 
