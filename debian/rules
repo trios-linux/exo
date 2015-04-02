@@ -13,6 +13,7 @@ MSGFMT = /usr/bin/msgfmt --endianness little
 	dh $@ --parallel --with autoreconf
 
 override_dh_autoreconf:
+	mkdir -p m4
 	xdt-autogen
 
 override_dh_auto_configure:

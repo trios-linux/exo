@@ -1,3 +1,11 @@
+exo (0.10.4-trios1) mia; urgency=medium
+
+  * New upstream release.
+  * debian/rules: 
+    - mkdir m4, fixes configure error.
+
+ -- Filip Danilovic <filip@openmailbox.org>  Thu, 02 Apr 2015 03:01:56 +0100
+
 exo (0.10.3-trios1) mia; urgency=medium
 
   * New upstream release.
