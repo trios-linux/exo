@@ -1,4 +1,4 @@
-exo (0.10.4-trios2) mia; urgency=medium
+exo (0.10.4-trios3) mia; urgency=medium
 
   * Bump standards version to 3.9.6
   * debian/control: 
